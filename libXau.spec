@@ -9,7 +9,7 @@ Name:       libXau
 # << macros
 
 Summary:    X.Org X11 libXau runtime library
-Version:    1.0.7
+Version:    1.0.8
 Release:    1
 Group:      System/Libraries
 License:    MIT
